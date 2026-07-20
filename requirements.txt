@@ -1,0 +1,15 @@
+streamlit
+pyyaml
+pandas
+requests
+scapy
+psutil
+python-nmap
+rich
+fastapi
+uvicorn
+ollama
+networkx
+cyclonedx-python-lib
+spdx-tools
+cryptography
